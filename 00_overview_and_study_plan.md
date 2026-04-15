@@ -75,10 +75,9 @@
 
 ---
 
-## Tutorial Files in This Series
+##  Files in This Series
 
 ```
-tutorials/
 ├── 00_overview_and_study_plan.md       ← You are here
 ├── 01_agentic_architecture.md          ← Domain 1 (27%) — START HERE after this file
 ├── 02_tool_design_mcp.md               ← Domain 2 (18%)
