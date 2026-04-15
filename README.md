@@ -107,15 +107,17 @@
 
   ## Repository Structure
 
-  ├── tutorials/
-  │   ├── 00_overview_and_study_plan.md
-  │   ├── 01_agentic_architecture.md
-  │   ├── 02_tool_design_mcp.md
-  │   ├── 03_claude_code_config.md
-  │   ├── 04_prompt_engineering.md
-  │   ├── 05_context_reliability.md
-  │   ├── 06_anti_patterns.md
-  │   └── 07_practice_questions.md
+    ~~~
+  tutorials/
+  ├── 00_overview_and_study_plan.md
+  ├── 01_agentic_architecture.md
+  ├── 02_tool_design_mcp.md
+  ├── 03_claude_code_config.md
+  ├── 04_prompt_engineering.md
+  ├── 05_context_reliability.md
+  ├── 06_anti_patterns.md
+  └── 07_practice_questions.md
+  ~~~
 
   ---
 
