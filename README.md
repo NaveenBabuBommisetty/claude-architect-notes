@@ -33,21 +33,19 @@
 
   | File | Topic | Weight |
   |------|-------|--------|
-  | [00 — Overview & 12-Week Study Plan](tutorials/00_overview_and_study_plan.md) | Exam structure, study schedule, free resources | — |
-  | [01 — Agentic Architecture & Orchestration](tutorials/01_agentic_architecture.md) | Agentic loop, hub-and-spoke, session state, lifecycle hooks, human  
-  escalation | 27% |                                                                                                                                        
-  | [02 — Tool Design & MCP Integration](tutorials/02_tool_design_mcp.md) | MCP primitives, tool descriptions, transport (stdio vs SSE), reasoning overload 
-  | 18% |                                                                                                                                                   
-  | [03 — Claude Code Configuration](tutorials/03_claude_code_config.md) | CLAUDE.md, Plan Mode vs Direct Execution, `-p` flag for CI/CD | 20% |
-  | [04 — Prompt Engineering & Structured Output](tutorials/04_prompt_engineering.md) | Few-shot prompting, JSON schema, validation-retry loops, Batch vs   
-  Sync API | 20% |                                                                                                                                          
-  | [05 — Context & Reliability](tutorials/05_context_reliability.md) | External state, error classification, provenance tracking, prompt caching | 15% |   
-  | [06 — The 7 Critical Anti-Patterns](tutorials/06_anti_patterns.md) | Exam traps with wrong vs correct code examples | — |                               
-  | [07 — 60 Practice Questions](tutorials/07_practice_questions.md) | Full mock exam with answers and explanations, organized by domain | — |
+  | [00 - Overview & Study Plan](tutorials/00_overview_and_study_plan.md) | Exam structure, 12-week study schedule, free resources | - |
+  | [01 - Agentic Architecture](tutorials/01_agentic_architecture.md) | Agentic loop, hub-and-spoke, session state, lifecycle hooks, escalation | 27% |     
+  | [02 - Tool Design & MCP](tutorials/02_tool_design_mcp.md) | MCP primitives, tool descriptions, stdio vs SSE transport | 18% |
+  | [03 - Claude Code Config](tutorials/03_claude_code_config.md) | CLAUDE.md, Plan Mode vs Direct Execution, `-p` flag for CI/CD | 20% |                   
+  | [04 - Prompt Engineering](tutorials/04_prompt_engineering.md) | Few-shot prompting, JSON schema, validation-retry loops, Batch API | 20% |
+  | [05 - Context & Reliability](tutorials/05_context_reliability.md) | External state, error taxonomy, provenance tracking, prompt caching | 15% |         
+  | [06 - The 7 Anti-Patterns](tutorials/06_anti_patterns.md) | Exam traps with wrong vs correct code examples | - |
+  | [07 - 60 Practice Questions](tutorials/07_practice_questions.md) | Full mock exam with answers and explanations by domain | - |                         
                                                                                                                                                             
-  > **Start here:** Open `00_overview_and_study_plan.md` for the full 12-week plan, then work through files 01–07 in order.                                 
+  > **Start here:** Open `00_overview_and_study_plan.md` for the 12-week plan, then work through files 01-07 in order.                                      
                                                                                                                                                             
-  ---                                                                                                                                                       
+  ---   
+  
   ## What's Inside Each File
                             
   **Domain tutorials (01–05)** each include:
